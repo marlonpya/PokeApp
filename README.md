@@ -34,7 +34,7 @@ PokeApp built with Jetpack Compose, Hilt, Coroutines, Flow, Room and ViewModel b
 - ListViewModelTest (test )
 - ExampleUnitTest (unit test)
 
-## Built With
+## Captures
 ![Imagen 1](capture_screen/listpokemon.png)
 ![Imagen 2](capture_screen/detailpokemon.png)
 ![Imagen 3](capture_screen/search.png)

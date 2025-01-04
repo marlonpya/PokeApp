@@ -30,6 +30,10 @@ PokeApp built with Jetpack Compose, Hilt, Coroutines, Flow, Room and ViewModel b
 - [Room](https://developer.android.com/training/data-storage/room) - The Room database provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite
 - [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 
+## Test
+- ListViewModelTest (test )
+- ExampleUnitTest (unit test)
+
 ## Built With
 ![Imagen 1](capture_screen/listpokemon.png)
 ![Imagen 2](capture_screen/detailpokemon.png)
